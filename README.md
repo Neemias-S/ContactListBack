@@ -14,9 +14,9 @@
 
 ## Como rodar o projeto:
 
- 1 : Instalação da JDK : `<a href="https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html" target="_blank">Download da JDK 8</a>`
+ 1 : Instalação da JDK : <a href="https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html" target="_blank">Download da JDK 8</a>
 
- 2 : Instalação do Maven : `https://maven.apache.org/download.cgi`
+ 2 : Instalação do Maven : <a href="https://maven.apache.org/download.cgi" target="_balnk">Download Maven</a>
   
  3 : Agora é necessário configurar as variáveis de ambiente com o caminho dos diretórios em que você acabou de descompactar/instalar, tanto do Java (JDK) quanto o Maven. Abra o Editor de variáveis de ambiente do seu SO e adicione as duas variáveis a seguir:
  
