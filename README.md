@@ -24,7 +24,7 @@
   > JAVA_HOME : `C:\Program Files\Java\jdk1.8.0_251` (Adicione o caminho da pasta jdk1.8.0_251 instalada anteriormente)
   > Maven_Home : `C:\apache-maven-3.6.3` (Adicione o caminho da pasta apache-maven-3.6.3 baixada anteriormente )
   
- Adicione ao PATH a variável abaixo, que faz referência a cirada anteriormente mas agora o alvo é a pasta bin:
+ Adicione á variável PATH, já existente,  a variável abaixo, que faz referência a cirada anteriormente mas agora o alvo é a pasta bin:
   >  %Maven_Home%\bin
 
  4 : Para clonar o projeto, entre no diretório desejado, abra o prompt de comando e execute : `git clone https://github.com/Neemias-S/ContactListBack.git`
