@@ -14,7 +14,7 @@
 
 ## Como rodar o projeto:
 
- 1 : Instalação da JDK : `https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html`
+ 1 : Instalação da JDK : `<a href="https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html" target="_blank">Download da JDK 8</a>`
 
  2 : Instalação do Maven : `https://maven.apache.org/download.cgi`
   
