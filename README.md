@@ -34,7 +34,7 @@
     > usuario : postgres
     > senha : postgres
  
-  Faça a instalação com base nos dados acima e aceesando esste link : <a href="https://www.postgresql.org/download/windows/" target="_blank"> Download Postgres </a>
+  Faça a instalação com base nos dados acima e acessando esste link : <a href="https://www.postgresql.org/download/windows/" target="_blank"> Download Postgres </a>
 
  6 : Abra o prompt de comando no diretório que acabou de clonar e execute : `mvn spring-boot:run`
 
