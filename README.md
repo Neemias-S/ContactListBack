@@ -29,6 +29,13 @@
 
  4 : Para clonar o projeto, entre no diretório desejado, abra o prompt de comando e execute : `git clone https://github.com/Neemias-S/ContactListBack.git`
 
- 5 : Abra o prompt de comando no diretório que acabou de clonar e execute : `mvn spring-boot:run`
+ 5 : Agora vamos instalar o PostgresSQL. O projeto está configurado para ouvir a porta 5432, com as informações de autenticação abaixo:
+    
+    > usuario : postgres
+    > senha : postgres
+ 
+  Faça a instalação com base nos dados acima e aceesando esste link : <a href="https://www.postgresql.org/download/windows/" target="_blank"> Download Postgres </a>
 
- 6 : Prontinho :)
+ 6 : Abra o prompt de comando no diretório que acabou de clonar e execute : `mvn spring-boot:run`
+
+ 7 : Prontinho :)
