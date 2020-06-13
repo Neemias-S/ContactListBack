@@ -38,4 +38,4 @@
 
  6 : Abra o prompt de comando no diretório que acabou de clonar e execute : `mvn spring-boot:run`
 
- 7 : Prontinho :)
+ 7 : Prontinho, agora basta seguir os passos do projeto front end seguindo este link : <a href="https://github.com/Neemias-S/ContactList" target="_blank"> Download Postgres </a>
